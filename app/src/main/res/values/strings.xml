@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">jetpack-compose-navigation</string>
+    <string name="screen_seven">Screen Seven</string>
+    <string name="screen_six">Screen Six</string>
+</resources>
